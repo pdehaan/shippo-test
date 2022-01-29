@@ -1,0 +1,28 @@
+{
+  "name": "shippo-test",
+  "description": "",
+  "version": "1.0.0",
+  "author": "Peter deHaan <peter@deseloper.com>",
+  "bugs": {
+    "url": "https://github.com/pdehaan/shippo-test/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "dotenv": "^14.3.2",
+    "shippo": "^1.6.0",
+    "ts-tracking-number": "^1.0.13"
+  },
+  "homepage": "https://github.com/pdehaan/shippo-test#readme",
+  "keywords": [],
+  "license": "MPL-2.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/shippo-test.git"
+  },
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module"
+}
